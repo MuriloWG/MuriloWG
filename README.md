@@ -1,5 +1,7 @@
 ## Murilo William
 
+**`frelancer`**
+
 Me chamo Murilo William, tenho 19 anos e sou estudante de Ciência da Computação. Natural de Recife, Pernambuco. Sou apaixonado por tecnologia e sempre busco aprender e desenvolver novas habilidades na área. Meu objetivo é criar soluções inovadoras e impactar positivamente o mundo por meio da computação.
 ---
 ### 🤖 Linguagens e Tecnologias
